@@ -17,6 +17,6 @@ simulated function bool StartFire(int mode)
 
 defaultproperties
 {
-     FireModeClass(0)=Class'DEKWeapons208AA.UpgradeMinigunFire'
-     FireModeClass(1)=Class'DEKWeapons208AA.UpgradeMinigunAltFire'
+     FireModeClass(0)=Class'DEKWeapons208AB.UpgradeMinigunFire'
+     FireModeClass(1)=Class'DEKWeapons208AB.UpgradeMinigunAltFire'
 }

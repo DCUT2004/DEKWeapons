@@ -2,6 +2,6 @@ class UpgradeBioRiflePickup extends BioRiflePickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons208AA.UpgradeBioRifle'
+     InventoryType=Class'DEKWeapons208AB.UpgradeBioRifle'
      PickupMessage="You got the Upgraded Bio-Rifle"
 }

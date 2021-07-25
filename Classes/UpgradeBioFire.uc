@@ -2,5 +2,5 @@ class UpgradeBioFire extends BioFire;
 
 defaultproperties
 {
-     ProjectileClass=Class'DEKWeapons208AA.UpgradeBioGlob'
+     ProjectileClass=Class'DEKWeapons208AB.UpgradeBioGlob'
 }

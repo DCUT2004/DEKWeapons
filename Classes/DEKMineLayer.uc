@@ -3,5 +3,5 @@ class DEKMineLayer extends ONSMineLayer;
 defaultproperties
 {
      MaxMines=3
-     PickupClass=Class'DEKWeapons208AA.DEKMineLayerPickup'
+     PickupClass=Class'DEKWeapons208AB.DEKMineLayerPickup'
 }

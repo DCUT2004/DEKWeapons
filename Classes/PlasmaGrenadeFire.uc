@@ -33,7 +33,7 @@ defaultproperties
      bTossed=False
      FireSound=Sound'WeaponSounds.BaseFiringSounds.BPulseRifleAltFire'
      FireRate=0.500000
-     AmmoClass=Class'DEKWeapons208AA.PlasmaGrenadeAmmo'
-     ProjectileClass=Class'DEKWeapons208AA.PlasmaGrenadeProjectile'
+     AmmoClass=Class'DEKWeapons208AB.PlasmaGrenadeAmmo'
+     ProjectileClass=Class'DEKWeapons208AB.PlasmaGrenadeProjectile'
      FlashEmitterClass=None
 }

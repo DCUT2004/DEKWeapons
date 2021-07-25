@@ -159,8 +159,8 @@ defaultproperties
 {
      MaxGrenades=9
      FadedColor=(B=128,G=128,R=128,A=128)
-     FireModeClass(0)=Class'DEKWeapons208AA.PlasmaGrenadeFire'
-     FireModeClass(1)=Class'DEKWeapons208AA.PlasmaGrenadeAltFire'
+     FireModeClass(0)=Class'DEKWeapons208AB.PlasmaGrenadeFire'
+     FireModeClass(1)=Class'DEKWeapons208AB.PlasmaGrenadeAltFire'
      PutDownAnim="PutDown"
      SelectAnimRate=3.100000
      PutDownAnimRate=2.800000
@@ -178,11 +178,11 @@ defaultproperties
      CustomCrossHairTextureName="ONSInterface-TX.grenadeLauncherReticle"
      InventoryGroup=3
      GroupOffset=1
-     PickupClass=Class'DEKWeapons208AA.PlasmaGrenadePickup'
+     PickupClass=Class'DEKWeapons208AB.PlasmaGrenadePickup'
      PlayerViewOffset=(X=9.000000,Y=17.000000,Z=-8.000000)
      PlayerViewPivot=(Pitch=-1000)
      BobDamping=2.200000
-     AttachmentClass=Class'DEKWeapons208AA.PlasmaGrenadeAttachment'
+     AttachmentClass=Class'DEKWeapons208AB.PlasmaGrenadeAttachment'
      IconMaterial=Texture'HUDContent.Generic.HUD'
      IconCoords=(X1=434,Y1=253,X2=506,Y2=292)
      ItemName="Anti Gravity Grenade Launcher"

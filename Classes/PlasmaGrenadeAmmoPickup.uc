@@ -6,7 +6,7 @@ class PlasmaGrenadeAmmoPickup extends UTAmmoPickup;
 defaultproperties
 {
      AmmoAmount=20
-     InventoryType=Class'DEKWeapons208AA.PlasmaGrenadeAmmo'
+     InventoryType=Class'DEKWeapons208AB.PlasmaGrenadeAmmo'
      PickupMessage="Hey! Plasma Grenades!"
      PickupSound=Sound'PickupSounds.LinkAmmoPickup'
      PickupForce="LinkAmmoPickup"
