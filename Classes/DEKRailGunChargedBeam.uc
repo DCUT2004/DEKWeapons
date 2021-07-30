@@ -71,7 +71,7 @@ defaultproperties
          LifetimeRange=(Min=0.500000,Max=0.500000)
          StartVelocityRange=(X=(Min=1.000000,Max=1.000000))
      End Object
-     Emitters(0)=BeamEmitter'DEKWeapons208AB.DEKRailGunChargedBeam.BeamEmitter8'
+     Emitters(0)=BeamEmitter'DEKWeapons208AC.DEKRailGunChargedBeam.BeamEmitter8'
 
      AutoDestroy=True
      bNoDelete=False

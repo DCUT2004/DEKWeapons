@@ -1,7 +1,7 @@
 class DEKRailGun extends SniperRifle;
 
 //#exec OBJ LOAD FILE="..\Animations\DEKAnimationMaster206.ukx"
-//#exec OBJ LOAD FILE=DEKWeaponsMaster206.utx package=DEKWeapons208AB
+//#exec OBJ LOAD FILE=DEKWeaponsMaster206.utx package=DEKWeapons208AC
 
 var int weaponLevel;
 var material fullchargeSkin;
@@ -235,18 +235,18 @@ defaultproperties
 {
      fullchargeSkin=Combiner'AWGlobal.Shaders.Combiner29'
      ChargeEffectOffset=(X=-1.000000)
-     FireModeClass(0)=Class'DEKWeapons208AB.DEKRailGunFire'
+     FireModeClass(0)=Class'DEKWeapons208AC.DEKRailGunFire'
      SelectAnimRate=1.363600
      BringUpTime=0.330000
      AIRating=0.400000
      bCanThrow=False
      Priority=4
      HudColor=(B=229,G=216,R=139)
-     PickupClass=Class'DEKWeapons208AB.DEKRailGunPickup'
-     AttachmentClass=Class'DEKWeapons208AB.DEKRailGunAttachment'
+     PickupClass=Class'DEKWeapons208AC.DEKRailGunPickup'
+     AttachmentClass=Class'DEKWeapons208AC.DEKRailGunAttachment'
      ItemName="Rail Gun"
      //Mesh=SkeletalMesh'DEKAnimationMaster206.Railgun'
      //DrawScale=0.900000
-     //Skins(0)=Shader'DEKWeapons208AB.Skins.RailgunShader'
-     //Skins(1)=Shader'DEKWeapons208AB.Skins.RailgunShader'
+     //Skins(0)=Shader'DEKWeapons208AC.Skins.RailgunShader'
+     //Skins(1)=Shader'DEKWeapons208AC.Skins.RailgunShader'
 }

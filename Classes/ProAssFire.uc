@@ -6,10 +6,10 @@ defaultproperties
      FireSound=SoundGroup'WeaponSounds.AssaultRifle.AssaultRifleFire'
      FireForce="AssaultRifleFire"
      FireRate=0.160000
-     AmmoClass=Class'DEKWeapons208AB.ProAssAmmo'
+     AmmoClass=Class'DEKWeapons208AC.ProAssAmmo'
      ShakeOffsetMag=(X=1.000000,Y=1.000000,Z=1.000000)
      ShakeOffsetRate=(X=1000.000000,Y=1000.000000,Z=1000.000000)
-     ProjectileClass=Class'DEKWeapons208AB.ProAssBullet'
+     ProjectileClass=Class'DEKWeapons208AC.ProAssBullet'
      BotRefireRate=0.990000
      Spread=800.000000
 }

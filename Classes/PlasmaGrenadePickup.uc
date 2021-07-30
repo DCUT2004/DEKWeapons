@@ -24,7 +24,7 @@ simulated function UpdatePrecacheMaterials()
 defaultproperties
 {
      MaxDesireability=0.750000
-     InventoryType=Class'DEKWeapons208AB.PlasmaGrenadeLauncher'
+     InventoryType=Class'DEKWeapons208AC.PlasmaGrenadeLauncher'
      PickupMessage="You got an Anti-Gravity Grenade Launcher."
      PickupSound=Sound'PickupSounds.FlakCannonPickup'
      PickupForce="ONSGrenadePickup"
