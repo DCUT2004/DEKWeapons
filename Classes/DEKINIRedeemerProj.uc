@@ -40,5 +40,5 @@ defaultproperties
      fDamage=75.000000
      fDamageRadius=800.000000
      fDeniedScoreAward=25.000000
-     MyDamageType=Class'DEKWeapons208AC.DEKDamTypeINIRedeemer'
+     MyDamageType=Class'DEKWeapons208AD.DEKDamTypeINIRedeemer'
 }

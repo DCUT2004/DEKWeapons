@@ -3,5 +3,5 @@ class UpgradeFlakFire extends FlakFire;
 defaultproperties
 {
      ProjPerFire=7
-     ProjectileClass=Class'DEKWeapons208AC.UpgradeFlakChunk'
+     ProjectileClass=Class'DEKWeapons208AD.UpgradeFlakChunk'
 }

@@ -39,5 +39,5 @@ simulated function Explode(vector HitLocation, vector HitNormal)
 
 defaultproperties
 {
-     MyDamageType=Class'DEKWeapons208AC.DamTypeProAssGrenade'
+     MyDamageType=Class'DEKWeapons208AD.DamTypeProAssGrenade'
 }

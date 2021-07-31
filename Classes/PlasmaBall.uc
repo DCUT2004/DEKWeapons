@@ -41,7 +41,7 @@ defaultproperties
          Texture=Texture'EpicParticles.Flares.SoftFlare'
          LifetimeRange=(Min=0.020000,Max=0.020000)
      End Object
-     Emitters(0)=SpriteEmitter'DEKWeapons208AC.PlasmaBall.SpriteEmitter7'
+     Emitters(0)=SpriteEmitter'DEKWeapons208AD.PlasmaBall.SpriteEmitter7'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter9
          UseColorScale=True
@@ -64,12 +64,12 @@ defaultproperties
          StartSizeRange=(X=(Min=15.000000,Max=16.000000),Y=(Min=20.000000,Max=21.000000),Z=(Min=20.000000,Max=21.000000))
          InitialParticlesPerSecond=6.000000
          DrawStyle=PTDS_Brighten
-         Texture=Texture'UCMP-WeaponSkins.Effects.ShockTankEffectCore'
+         Texture=Texture'AW-2k4XP.Weapons.ShockTankEffectCore'
          LifetimeRange=(Min=0.500000,Max=0.500000)
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(1)=SpriteEmitter'DEKWeapons208AC.PlasmaBall.SpriteEmitter9'
+     Emitters(1)=SpriteEmitter'DEKWeapons208AD.PlasmaBall.SpriteEmitter9'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter11
          UseColorScale=True
@@ -94,7 +94,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(2)=SpriteEmitter'DEKWeapons208AC.PlasmaBall.SpriteEmitter11'
+     Emitters(2)=SpriteEmitter'DEKWeapons208AD.PlasmaBall.SpriteEmitter11'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter12
          UseColorScale=True
@@ -112,12 +112,12 @@ defaultproperties
          SizeScale(0)=(RelativeSize=1.000000)
          SizeScale(1)=(RelativeTime=1.000000,RelativeSize=1.500000)
          StartSizeRange=(X=(Min=25.000000,Max=25.000000))
-         Texture=Texture'UCMP-WeaponSkins.Effects.ShockTankEffectCore2'
+         Texture=Texture'AW-2k4XP.Weapons.ShockTankEffectCore2'
          LifetimeRange=(Min=1.000000,Max=1.000000)
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(3)=SpriteEmitter'DEKWeapons208AC.PlasmaBall.SpriteEmitter12'
+     Emitters(3)=SpriteEmitter'DEKWeapons208AD.PlasmaBall.SpriteEmitter12'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter13
          UseColorScale=True
@@ -136,12 +136,12 @@ defaultproperties
          SizeScale(1)=(RelativeTime=1.000000,RelativeSize=0.500000)
          StartSizeRange=(X=(Min=20.000000,Max=20.000000))
          DrawStyle=PTDS_Darken
-         Texture=Texture'UCMP-WeaponSkins.Effects.ShockTankEffectSwirl'
+         Texture=Texture'AW-2k4XP.Weapons.ShockTankEffectSwirl'
          LifetimeRange=(Min=2.000000,Max=2.000000)
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(4)=SpriteEmitter'DEKWeapons208AC.PlasmaBall.SpriteEmitter13'
+     Emitters(4)=SpriteEmitter'DEKWeapons208AD.PlasmaBall.SpriteEmitter13'
 
      Begin Object Class=MeshEmitter Name=MeshEmitter7
          StaticMesh=StaticMesh'AW-2004Particles.Weapons.PlasmaSphere'
@@ -156,7 +156,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(5)=MeshEmitter'DEKWeapons208AC.PlasmaBall.MeshEmitter7'
+     Emitters(5)=MeshEmitter'DEKWeapons208AD.PlasmaBall.MeshEmitter7'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter14
          UseColorScale=True
@@ -181,7 +181,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=1.000000
      End Object
-     Emitters(6)=SpriteEmitter'DEKWeapons208AC.PlasmaBall.SpriteEmitter14'
+     Emitters(6)=SpriteEmitter'DEKWeapons208AD.PlasmaBall.SpriteEmitter14'
 
      bNoDelete=False
 }

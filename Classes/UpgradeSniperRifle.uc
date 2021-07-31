@@ -12,6 +12,6 @@ simulated function bool CanThrow()
 
 defaultproperties
 {
-     FireModeClass(0)=Class'DEKWeapons208AC.UpgradeSniperFire'
-     PickupClass=Class'DEKWeapons208AC.UpgradeSniperRiflePickup'
+     FireModeClass(0)=Class'DEKWeapons208AD.UpgradeSniperFire'
+     PickupClass=Class'DEKWeapons208AD.UpgradeSniperRiflePickup'
 }

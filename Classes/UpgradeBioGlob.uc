@@ -107,5 +107,5 @@ defaultproperties
 {
      RestTime=7.250000
      MaxGoopLevel=8
-     MyDamageType=Class'DEKWeapons208AC.DamTypeUpgradeBioGlob'
+     MyDamageType=Class'DEKWeapons208AD.DamTypeUpgradeBioGlob'
 }

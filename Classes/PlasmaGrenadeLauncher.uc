@@ -159,34 +159,35 @@ defaultproperties
 {
      MaxGrenades=9
      FadedColor=(B=128,G=128,R=128,A=128)
-     FireModeClass(0)=Class'DEKWeapons208AC.PlasmaGrenadeFire'
-     FireModeClass(1)=Class'DEKWeapons208AC.PlasmaGrenadeAltFire'
+     FireModeClass(0)=Class'DEKWeapons208AD.PlasmaGrenadeFire'
+     FireModeClass(1)=Class'DEKWeapons208AD.PlasmaGrenadeAltFire'
      PutDownAnim="PutDown"
      SelectAnimRate=3.100000
-     PutDownAnimRate=2.800000
+     PutDownAnimRate=2.500000
      SelectSound=Sound'WeaponSounds.FlakCannon.SwitchToFlakCannon'
      SelectForce="SwitchToFlakCannon"
      AIRating=0.620000
      CurrentRating=0.620000
      bCanThrow=False
      Description="The DEK Anti-Gravity Grenade Launcher, Also know as The AGGL, is a powerful defensive weapon. Primary fire mode shots time fused and touch sensitive plasma grenade. These grenades are slow moving, but are not affected by gravity and can stick to surfaces. The secondary fire is the same as primary. Sorry. The AGGL is perfect for laying traps for fast moving vehicles or blocking doorways.||DEK Invasion Version."
-     EffectOffset=(X=65.000000,Y=14.000000,Z=-10.000000)
+     EffectOffset=(X=30.000000,Y=10.000000,Z=-10.000000)
      Priority=200
      HudColor=(B=230,G=150,R=220)
-     SmallViewOffset=(X=11.000000,Y=15.000000,Z=-9.000000)
+     SmallViewOffset=(X=23.000000,Y=6.000000,Z=-6.000000)
      CustomCrosshair=15
      CustomCrossHairTextureName="ONSInterface-TX.grenadeLauncherReticle"
      InventoryGroup=3
      GroupOffset=1
-     PickupClass=Class'DEKWeapons208AC.PlasmaGrenadePickup'
-     PlayerViewOffset=(X=9.000000,Y=17.000000,Z=-8.000000)
+     //PickupClass=Class'DEKWeapons208AD.PlasmaGrenadePickup'
+     PlayerViewOffset=(X=11.000000)
      PlayerViewPivot=(Pitch=-1000)
      BobDamping=2.200000
-     AttachmentClass=Class'DEKWeapons208AC.PlasmaGrenadeAttachment'
+     AttachmentClass=Class'XWeapons.BallAttachment'
      IconMaterial=Texture'HUDContent.Generic.HUD'
      IconCoords=(X1=434,Y1=253,X2=506,Y2=292)
      ItemName="Anti Gravity Grenade Launcher"
-     Mesh=SkeletalMesh'UCMPWepAnim.AGL_1st'
-     DrawScale=0.500000
+     Mesh=SkeletalMesh'Weapons.BallLauncher_1st'
+     DrawScale=0.400000
      AmbientGlow=64
+     DisplayFOV=60.000000
 }

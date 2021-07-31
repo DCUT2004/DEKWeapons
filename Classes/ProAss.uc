@@ -28,15 +28,15 @@ function bool HandlePickupQuery( pickup Item )
 defaultproperties
 {
      reloadrate=0.480000
-     FireModeClass(0)=Class'DEKWeapons208AC.ProAssFire'
-     FireModeClass(1)=Class'DEKWeapons208AC.ProAssGrenade'
+     FireModeClass(0)=Class'DEKWeapons208AD.ProAssFire'
+     FireModeClass(1)=Class'DEKWeapons208AD.ProAssGrenade'
      AIRating=0.420000
      CurrentRating=0.420000
      OldPickup="ProAssPickup"
-     Description="DEKWeapons208AC Version. DEK Utility Rifle: This is a small caliber submachine gun. It has a high rate of fire, and has ammo that automatically regenerates, although at a slower rate than the firing rate. Original version 'Pro Assault Rifle' from Craptastic Voyage by ghouck."
+     Description="DEKWeapons208AD Version. DEK Utility Rifle: This is a small caliber submachine gun. It has a high rate of fire, and has ammo that automatically regenerates, although at a slower rate than the firing rate. Original version 'Pro Assault Rifle' from Craptastic Voyage by ghouck."
      Priority=251
      HudColor=(B=160,G=200,R=160)
      InventoryGroup=1
-     PickupClass=Class'DEKWeapons208AC.ProAssPickup'
+     PickupClass=Class'DEKWeapons208AD.ProAssPickup'
      ItemName="Utility Rifle"
 }

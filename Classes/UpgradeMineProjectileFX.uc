@@ -41,7 +41,7 @@ defaultproperties
          TextureVSubdivisions=4
          LifetimeRange=(Min=0.400000,Max=0.400000)
      End Object
-     Emitters(0)=SpriteEmitter'DEKWeapons208AC.UpgradeMineProjectileFX.SpriteEmitter0'
+     Emitters(0)=SpriteEmitter'DEKWeapons208AD.UpgradeMineProjectileFX.SpriteEmitter0'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter2
          UseCollision=True
@@ -63,7 +63,7 @@ defaultproperties
          StartVelocityRadialRange=(Min=-1000.000000,Max=-750.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(1)=SpriteEmitter'DEKWeapons208AC.UpgradeMineProjectileFX.SpriteEmitter2'
+     Emitters(1)=SpriteEmitter'DEKWeapons208AD.UpgradeMineProjectileFX.SpriteEmitter2'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter3
          FadeOut=True
@@ -88,7 +88,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.PlasmaStar'
          LifetimeRange=(Min=0.200000,Max=0.200000)
      End Object
-     Emitters(2)=SpriteEmitter'DEKWeapons208AC.UpgradeMineProjectileFX.SpriteEmitter3'
+     Emitters(2)=SpriteEmitter'DEKWeapons208AD.UpgradeMineProjectileFX.SpriteEmitter3'
 
      AutoDestroy=True
      bNoDelete=False
