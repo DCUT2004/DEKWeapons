@@ -42,7 +42,7 @@ function bool CheckReplacement( Actor Other, out byte bSuperRelevant )
 
 defaultproperties
 {
-     DefaultWeapon=Class'DEKWeapons208AD.ProAss'
+     DefaultWeapon=Class'DEKWeapons208AE.ProAss'
      GroupName="Arena"
      FriendlyName="-DEKWeapons1.1- ProAssault Arena"
      Description="DEK Pro Assault Weapon Arena: Eliminates all weapons and ammo and gives each player the DEK Pro Assault Rifle"

@@ -3,6 +3,6 @@ class DEKRailGunAmmo extends SniperAmmo;
 defaultproperties
 {
      MaxAmmo=25
-     PickupClass=Class'DEKWeapons208AD.DEKRailGunAmmoPickup'
+     PickupClass=Class'DEKWeapons208AE.DEKRailGunAmmoPickup'
      ItemName="Rail Charges"
 }

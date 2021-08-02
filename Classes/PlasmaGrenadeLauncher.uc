@@ -159,8 +159,8 @@ defaultproperties
 {
      MaxGrenades=9
      FadedColor=(B=128,G=128,R=128,A=128)
-     FireModeClass(0)=Class'DEKWeapons208AD.PlasmaGrenadeFire'
-     FireModeClass(1)=Class'DEKWeapons208AD.PlasmaGrenadeAltFire'
+     FireModeClass(0)=Class'DEKWeapons208AE.PlasmaGrenadeFire'
+     FireModeClass(1)=Class'DEKWeapons208AE.PlasmaGrenadeAltFire'
      PutDownAnim="PutDown"
      SelectAnimRate=3.100000
      PutDownAnimRate=2.500000
@@ -178,7 +178,7 @@ defaultproperties
      CustomCrossHairTextureName="ONSInterface-TX.grenadeLauncherReticle"
      InventoryGroup=3
      GroupOffset=1
-     //PickupClass=Class'DEKWeapons208AD.PlasmaGrenadePickup'
+     //PickupClass=Class'DEKWeapons208AE.PlasmaGrenadePickup'
      PlayerViewOffset=(X=11.000000)
      PlayerViewPivot=(Pitch=-1000)
      BobDamping=2.200000

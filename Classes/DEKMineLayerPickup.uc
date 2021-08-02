@@ -2,5 +2,5 @@ class DEKMineLayerPickup extends ONSMineLayerPickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons208AD.DEKMineLayer'
+     InventoryType=Class'DEKWeapons208AE.DEKMineLayer'
 }

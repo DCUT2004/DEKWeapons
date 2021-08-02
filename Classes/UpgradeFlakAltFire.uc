@@ -2,5 +2,5 @@ class UpgradeFlakAltFire extends FlakAltFire;
 
 defaultproperties
 {
-     ProjectileClass=Class'DEKWeapons208AD.UpgradeFlakShell'
+     ProjectileClass=Class'DEKWeapons208AE.UpgradeFlakShell'
 }

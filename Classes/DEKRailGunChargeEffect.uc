@@ -42,7 +42,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=2.000000
      End Object
-     Emitters(0)=SpriteEmitter'DEKWeapons208AD.DEKRailGunChargeEffect.SpriteEmitter47'
+     Emitters(0)=SpriteEmitter'DEKWeapons208AE.DEKRailGunChargeEffect.SpriteEmitter47'
 
      Begin Object Class=SpriteEmitter Name=SpriteEmitter48
          UseColorScale=True
@@ -66,7 +66,7 @@ defaultproperties
          WarmupTicksPerSecond=1.000000
          RelativeWarmupTime=2.000000
      End Object
-     Emitters(1)=SpriteEmitter'DEKWeapons208AD.DEKRailGunChargeEffect.SpriteEmitter48'
+     Emitters(1)=SpriteEmitter'DEKWeapons208AE.DEKRailGunChargeEffect.SpriteEmitter48'
 
      bNoDelete=False
 }

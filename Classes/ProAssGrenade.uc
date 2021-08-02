@@ -27,6 +27,6 @@ function projectile SpawnProjectile(Vector Start, Rotator Dir)
 
 defaultproperties
 {
-     AmmoClass=Class'DEKWeapons208AD.ProAssAmmo'
-     ProjectileClass=Class'DEKWeapons208AD.ProAssGrenadeProj'
+     AmmoClass=Class'DEKWeapons208AE.ProAssAmmo'
+     ProjectileClass=Class'DEKWeapons208AE.ProAssGrenadeProj'
 }

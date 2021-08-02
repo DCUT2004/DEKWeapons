@@ -3,7 +3,7 @@ class DamTypeProAssBullet extends WeaponDamageType
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons208AD.ProAss'
+     WeaponClass=Class'DEKWeapons208AE.ProAss'
      DeathString="%k's bullets got all up in %o."
      FemaleSuicide="%o's bullets got all up in herself."
      MaleSuicide="%o's bullets got all up in himself."
