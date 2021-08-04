@@ -3,6 +3,6 @@ class DamTypeNecromancerWeaponHS extends DamTypeSniperHeadShot
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons208AE.NecromancerWeapon'
+     WeaponClass=Class'DEKWeapons208AF.NecromancerWeapon'
      DeathString="%o's cranium was made extra crispy by %k's death strike."
 }

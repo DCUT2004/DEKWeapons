@@ -12,5 +12,5 @@ function projectile SpawnProjectile(Vector Start, Rotator Dir)
 
 defaultproperties
 {
-     ProjectileClass=Class'DEKWeapons208AE.UpgradeShockProjectile'
+     ProjectileClass=Class'DEKWeapons208AF.UpgradeShockProjectile'
 }

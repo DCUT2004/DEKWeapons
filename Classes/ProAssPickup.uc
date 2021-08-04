@@ -4,7 +4,7 @@ defaultproperties
 {
      StandUp=(Y=0.250000,Z=0.000000)
      MaxDesireability=0.405000
-     InventoryType=Class'DEKWeapons208AE.ProAss'
+     InventoryType=Class'DEKWeapons208AF.ProAss'
      PickupMessage="You got the Utility Rifle. Not bad, not bad."
      PickupSound=Sound'PickupSounds.AssaultRiflePickup'
      PickupForce="AssaultRiflePickup"

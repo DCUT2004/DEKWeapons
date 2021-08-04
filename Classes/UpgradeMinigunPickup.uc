@@ -20,7 +20,7 @@ simulated function UpdatePrecacheMaterials()
 defaultproperties
 {
      MaxDesireability=0.730000
-     InventoryType=Class'DEKWeapons208AE.UpgradeMinigun'
+     InventoryType=Class'DEKWeapons208AF.UpgradeMinigun'
      PickupMessage="You got the Upgraded Minigun."
      PickupSound=Sound'PickupSounds.MinigunPickup'
      PickupForce="MinigunPickup"
