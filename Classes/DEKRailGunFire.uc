@@ -393,11 +393,11 @@ defaultproperties
      ChargeUpAnim="Charge"
      BigFireAnimRate=1.500000
      ChargeUpAnimRate=0.500000
-     HitEmitterClass=Class'DEKWeapons208AF.DEKRailGunBolt'
-     SecHitEmitterClass=Class'DEKWeapons208AF.DEKRailGunBoltChild'
+     HitEmitterClass=Class'DEKWeapons208AG.DEKRailGunBolt'
+     SecHitEmitterClass=Class'DEKWeapons208AG.DEKRailGunBoltChild'
      SecTraceDist=700.000000
-     DamageTypeHeadShot=Class'DEKWeapons208AF.DamTypeDEKRailGunHeadShot'
-     DamageType=Class'DEKWeapons208AF.DamTypeDEKRailGunShot'
+     DamageTypeHeadShot=Class'DEKWeapons208AG.DamTypeDEKRailGunHeadShot'
+     DamageType=Class'DEKWeapons208AG.DamTypeDEKRailGunShot'
      DamageMin=40
      DamageMax=120
      TraceRange=60000.000000
@@ -408,5 +408,5 @@ defaultproperties
      FireAnimRate=1.964286
      TweenTime=0.010000
      FireRate=0.914286
-     AmmoClass=Class'DEKWeapons208AF.DEKRailGunAmmo'
+     AmmoClass=Class'DEKWeapons208AG.DEKRailGunAmmo'
 }

@@ -40,7 +40,7 @@ simulated function Destroyed()
 
 defaultproperties
 {
-     ExplosionEffect=Class'DEKWeapons208AF.UpgradeMineProjectileFX'
+     ExplosionEffect=Class'DEKWeapons208AG.UpgradeMineProjectileFX'
      ExplodeSound=Sound'GeneralAmbience.electricalfx5'
      ScurrySpeed=825.000000
 }

@@ -9,7 +9,7 @@ simulated function bool CanThrow()
 
 defaultproperties
 {
-     FireModeClass(0)=Class'DEKWeapons208AF.UpgradeAssaultFire'
-     FireModeClass(1)=Class'DEKWeapons208AF.UpgradeAssaultGrenade'
-     PickupClass=Class'DEKWeapons208AF.UpgradeAssaultRiflePickup'
+     FireModeClass(0)=Class'DEKWeapons208AG.UpgradeAssaultFire'
+     FireModeClass(1)=Class'DEKWeapons208AG.UpgradeAssaultGrenade'
+     PickupClass=Class'DEKWeapons208AG.UpgradeAssaultRiflePickup'
 }

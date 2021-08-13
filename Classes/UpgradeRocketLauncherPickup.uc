@@ -2,6 +2,6 @@ class UpgradeRocketLauncherPickup extends RocketLauncherPickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons208AF.UpgradeRocketLauncher'
+     InventoryType=Class'DEKWeapons208AG.UpgradeRocketLauncher'
      PickupMessage="You got the Upgraded Rocket Launcher."
 }
