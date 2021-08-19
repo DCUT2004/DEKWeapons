@@ -30,7 +30,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.PlasmaFlare'
          LifetimeRange=(Min=0.100000,Max=0.300000)
      End Object
-     Emitters(0)=SpriteEmitter'DEKWeapons208AG.INAvrilSmokeTrail.SpriteEmitter8'
+     Emitters(0)=SpriteEmitter'DEKWeapons208AH.INAvrilSmokeTrail.SpriteEmitter8'
 
      AutoDestroy=True
      bNoDelete=False

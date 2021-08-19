@@ -44,7 +44,7 @@ defaultproperties
 {
      MaxAmmo=100
      InitialAmount=25
-     PickupClass=Class'DEKWeapons208AG.ProAssAmmoPickup'
+     PickupClass=Class'DEKWeapons208AH.ProAssAmmoPickup'
      IconMaterial=Texture'HUDContent.Generic.HUD'
      IconCoords=(X1=336,Y1=82,X2=382,Y2=125)
      ItemName="Bullets"

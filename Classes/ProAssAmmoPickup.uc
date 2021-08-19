@@ -3,7 +3,7 @@ Class ProAssAmmoPickup extends UTAmmoPickup;
 defaultproperties
 {
      AmmoAmount=20
-     InventoryType=Class'DEKWeapons208AG.ProAssAmmo'
+     InventoryType=Class'DEKWeapons208AH.ProAssAmmo'
      PickupMessage="You got bullets. Like you *need* bullets."
      PickupSound=Sound'PickupSounds.AssaultAmmoPickup'
      PickupForce="ProAssAmmoPickup"

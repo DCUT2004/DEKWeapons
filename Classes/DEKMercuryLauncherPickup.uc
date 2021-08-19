@@ -11,6 +11,6 @@ class DEKMercuryLauncherPickup extends MercuryLauncherPickup;
 defaultproperties
 {
      MaxDesireability=0.720000
-     InventoryType=Class'DEKWeapons208AG.DEKMercuryLauncher'
+     InventoryType=Class'DEKWeapons208AH.DEKMercuryLauncher'
      PickupMessage="A Mercury Missile Launcher. For You."
 }
