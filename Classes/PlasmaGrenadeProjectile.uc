@@ -224,7 +224,7 @@ defaultproperties
      bSwitchToZeroCollision=True
      Damage=45.000000
      MomentumTransfer=15000.000000
-     MyDamageType=Class'DEKWeapons208AH.DamTypePlasmaGrenade'
+     MyDamageType=Class'DEKWeapons208AJ.DamTypePlasmaGrenade'
      ImpactSound=ProceduralSound'WeaponSounds.PGrenFloor1.P1GrenFloor1'
      ExplosionDecal=Class'XEffects.RocketMark'
      DrawType=DT_StaticMesh

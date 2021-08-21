@@ -11,7 +11,7 @@ defaultproperties
 {
      SeekRange=13000.000000
      LockRequiredTime=0.300000
-     FireModeClass(1)=Class'DEKWeapons208AH.UpgradeRocketMultiFire'
+     FireModeClass(1)=Class'DEKWeapons208AJ.UpgradeRocketMultiFire'
      bCanThrow=False
-     PickupClass=Class'DEKWeapons208AH.UpgradeRocketLauncherPickup'
+     PickupClass=Class'DEKWeapons208AJ.UpgradeRocketLauncherPickup'
 }

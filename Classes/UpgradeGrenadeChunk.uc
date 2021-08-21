@@ -2,5 +2,5 @@ class UpgradeGrenadeChunk extends FlakChunk;
 
 defaultproperties
 {
-     MyDamageType=Class'DEKWeapons208AH.DamTypeUpgradeGrenadeChunk'
+     MyDamageType=Class'DEKWeapons208AJ.DamTypeUpgradeGrenadeChunk'
 }

@@ -8,7 +8,7 @@ static function GetHitEffects(out class<xEmitter> HitEffects[4], int VictemHealt
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons208AH.DEKRailGun'
+     WeaponClass=Class'DEKWeapons208AJ.DEKRailGun'
      DeathString="%o rode %k's rail gun."
      FemaleSuicide="%o had a zapgasm."
      MaleSuicide="%o had a zapgasm."

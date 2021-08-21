@@ -208,8 +208,8 @@ defaultproperties
 {
      AttractionRadius=1000.000000
      AttractionStrength=80000.000000
-     SingularityEffectClass=Class'DEKWeapons208AH.UpgradeShockRifleBlackHoleEffect'
-     LightningDamageType=Class'DEKWeapons208AH.DamTypeUpgradeShockRifleBlackHoleLightning'
+     SingularityEffectClass=Class'DEKWeapons208AJ.UpgradeShockRifleBlackHoleEffect'
+     LightningDamageType=Class'DEKWeapons208AJ.DamTypeUpgradeShockRifleBlackHoleLightning'
      LightningRechargeTime=2.000000
      LightningRangeMax=500.000000
      LightningDamageMin=10.000000
