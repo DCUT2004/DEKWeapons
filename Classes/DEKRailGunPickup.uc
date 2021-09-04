@@ -5,6 +5,6 @@ class DEKRailGunPickup extends SniperRiflePickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons208AJ.DEKRailGun'
+     InventoryType=Class'DEKWeapons209A.DEKRailGun'
      PickupMessage="You got the Rail Gun."
 }

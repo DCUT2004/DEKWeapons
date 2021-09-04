@@ -2,6 +2,6 @@ class UpgradeINAVRiLPickup extends INAVRiLPickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons208AJ.UpgradeINAVRiL'
+     InventoryType=Class'DEKWeapons209A.UpgradeINAVRiL'
      PickupMessage="You picked up an Upgraded Monster AVRiL"
 }

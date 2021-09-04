@@ -17,8 +17,8 @@ simulated function float ChargeBar()
 
 defaultproperties
 {
-     FireModeClass(0)=Class'DEKWeapons208AJ.NecromancerWeaponFire'
-     FireModeClass(1)=Class'DEKWeapons208AJ.NecromancerWeaponFire'
+     FireModeClass(0)=Class'DEKWeapons209A.NecromancerWeaponFire'
+     FireModeClass(1)=Class'DEKWeapons209A.NecromancerWeaponFire'
      bShowChargingBar=True
      bCanThrow=False
      bForceSwitch=True

@@ -66,12 +66,12 @@ defaultproperties
          MaxParticles=5
          StartSizeRange=(X=(Min=35.000000,Max=55.000000))
          InitialParticlesPerSecond=50.000000
-         Texture=Texture'DEKRPGTexturesMaster208K.fX.TexLightningBeam'
+         Texture=Texture'DEKRPGTexturesMaster209A.fX.TexLightningBeam'
          SecondsBeforeInactive=0.000000
          LifetimeRange=(Min=0.500000,Max=0.500000)
          StartVelocityRange=(X=(Min=1.000000,Max=1.000000))
      End Object
-     Emitters(0)=BeamEmitter'DEKWeapons208AJ.DEKRailGunChargedBeam.BeamEmitter8'
+     Emitters(0)=BeamEmitter'DEKWeapons209A.DEKRailGunChargedBeam.BeamEmitter8'
 
      AutoDestroy=True
      bNoDelete=False

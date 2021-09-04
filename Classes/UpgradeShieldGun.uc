@@ -3,7 +3,7 @@ class UpgradeShieldGun extends Shieldgun
 
 defaultproperties
 {
-     FireModeClass(0)=Class'DEKWeapons208AJ.UpgradeShieldFire'
-     FireModeClass(1)=Class'DEKWeapons208AJ.UpgradeShieldAltFire'
-     PickupClass=Class'DEKWeapons208AJ.UpgradeShieldGunPickup'
+     FireModeClass(0)=Class'DEKWeapons209A.UpgradeShieldFire'
+     FireModeClass(1)=Class'DEKWeapons209A.UpgradeShieldAltFire'
+     PickupClass=Class'DEKWeapons209A.UpgradeShieldGunPickup'
 }

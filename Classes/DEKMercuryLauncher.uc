@@ -14,13 +14,13 @@ defaultproperties
      bAutoZoomLevel=False
      MaxScanRange=15000.000000
      DesiredZoomField=1000.000000
-     FireModeClass(0)=Class'DEKWeapons208AJ.DEKMercuryFire'
+     FireModeClass(0)=Class'DEKWeapons209A.DEKMercuryFire'
      AIRating=0.630000
      CurrentRating=0.630000
      Description="DEKWeapons1.1 Version. The Mercury Missile Launcher is a modification to the Trident rocket launcher. It is capable of firing high-speed rockets and has a zoom function."
      Priority=190
      HudColor=(B=36,G=200)
      InventoryGroup=9
-     PickupClass=Class'DEKWeapons208AJ.DEKMercuryLauncherPickup'
+     PickupClass=Class'DEKWeapons209A.DEKMercuryLauncherPickup'
      ItemName="Mercury Missile Launcher"
 }
