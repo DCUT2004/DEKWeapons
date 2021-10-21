@@ -18,9 +18,9 @@ defaultproperties
      MaxAmmo=50
      InitialAmount=20
      bTryHeadShot=True
-     ProjectileClass=Class'DEKWeapons209A.DEKMercuryMissile'
+     ProjectileClass=Class'DEKWeapons209B.DEKMercuryMissile'
      IconFlashMaterial=FinalBlend'MercuryMissiles2.HUD.MercuryAmmoIconFlash'
-     PickupClass=Class'DEKWeapons209A.DEKMercuryAmmoPickup'
+     PickupClass=Class'DEKWeapons209B.DEKMercuryAmmoPickup'
      IconMaterial=Texture'MercuryMissiles2.HUD.MercuryAmmoIcon'
      IconCoords=(X2=100,Y2=74)
      ItemName="Mercury Missiles"

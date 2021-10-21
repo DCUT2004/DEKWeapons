@@ -4,5 +4,5 @@ defaultproperties
 {
      Speed=3500.000000
      MaxSpeed=3700.000000
-     MyDamageType=Class'DEKWeapons209A.DamTypeProAssBullet'
+     MyDamageType=Class'DEKWeapons209B.DamTypeProAssBullet'
 }

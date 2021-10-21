@@ -90,7 +90,6 @@ simulated function DrawPowerBar(Canvas Canvas)
 {
 	if ( WeaponLevel == 2 && !Instigator.HasUDamage() && bDoOverlay )
 		OverLayMaterial=FullChargeSkin;
-
 }
 
 function SetBerserkWeaponLevel(optional bool bSetLevel, optional int newLevel)
@@ -235,15 +234,15 @@ defaultproperties
 {
      fullchargeSkin=Combiner'AWGlobal.Shaders.Combiner29'
      ChargeEffectOffset=(X=-1.000000)
-     FireModeClass(0)=Class'DEKWeapons209A.DEKRailGunFire'
+     FireModeClass(0)=Class'DEKWeapons209B.DEKRailGunFire'
      SelectAnimRate=1.363600
      BringUpTime=0.330000
      AIRating=0.400000
      bCanThrow=False
      Priority=4
      HudColor=(B=229,G=216,R=139)
-     PickupClass=Class'DEKWeapons209A.DEKRailGunPickup'
-     AttachmentClass=Class'DEKWeapons209A.DEKRailGunAttachment'
+     PickupClass=Class'DEKWeapons209B.DEKRailGunPickup'
+     AttachmentClass=Class'DEKWeapons209B.DEKRailGunAttachment'
      ItemName="Rail Gun"
      Mesh=SkeletalMesh'DEKAnimationMaster206.Railgun'
      DrawScale=0.900000

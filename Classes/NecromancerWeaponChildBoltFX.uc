@@ -14,5 +14,5 @@ defaultproperties
      mMaxParticles=11
      mLifeRange(0)=1.900000
      mLifeRange(1)=1.900000
-     Skins(0)=Texture'DEKRPGTexturesMaster209A.fX.TexMineChargerLightningBeam'
+     Skins(0)=Texture'DEKRPGTexturesMaster209B.fX.TexMineChargerLightningBeam'
 }

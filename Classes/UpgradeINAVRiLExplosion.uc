@@ -31,7 +31,7 @@ defaultproperties
          VelocityScale(0)=(RelativeTime=1.000000,RelativeVelocity=(Z=2.000000))
          VelocityScale(1)=(RelativeTime=1.000000,RelativeVelocity=(Z=0.100000))
      End Object
-     Emitters(0)=SpriteEmitter'DEKWeapons209A.UpgradeINAVRiLExplosion.SpriteEmitter11'
+     Emitters(0)=SpriteEmitter'DEKWeapons209B.UpgradeINAVRiLExplosion.SpriteEmitter11'
 
      AutoDestroy=True
      bNoDelete=False
