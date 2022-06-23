@@ -2,6 +2,6 @@ class UpgradeAssaultRiflePickup extends AssaultRiflePickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons209B.UpgradeAssaultRifle'
+     InventoryType=Class'DEKWeapons209C.UpgradeAssaultRifle'
      PickupMessage="You got the Upgraded Assault Rifle."
 }

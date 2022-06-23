@@ -10,15 +10,15 @@ function DoTrace(Vector Start, Rotator Dir)
 
 defaultproperties
 {
-     HitEmitterClass=Class'DEKWeapons209B.NecromancerWeaponBoltFX'
-     SecHitEmitterClass=Class'DEKWeapons209B.NecromancerWeaponChildBoltFX'
+     HitEmitterClass=Class'DEKWeapons209C.NecromancerWeaponBoltFX'
+     SecHitEmitterClass=Class'DEKWeapons209C.NecromancerWeaponChildBoltFX'
      NumArcs=6
-     DamageTypeHeadShot=Class'DEKWeapons209B.DamTypeNecromancerWeaponHS'
-     DamageType=Class'DEKWeapons209B.DamTypeNecromancerWeapon'
+     DamageTypeHeadShot=Class'DEKWeapons209C.DamTypeNecromancerWeaponHS'
+     DamageType=Class'DEKWeapons209C.DamTypeNecromancerWeapon'
      DamageMin=300
      DamageMax=300
      TraceRange=30000.000000
      FireSound=Sound'XEffects.LightningSound'
-     AmmoClass=Class'DEKWeapons209B.NecromancerWeaponAmmo'
+     AmmoClass=Class'DEKWeapons209C.NecromancerWeaponAmmo'
      AmmoPerFire=5
 }

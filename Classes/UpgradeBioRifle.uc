@@ -9,7 +9,7 @@ simulated function bool CanThrow()
 
 defaultproperties
 {
-     FireModeClass(0)=Class'DEKWeapons209B.UpgradeBioFire'
-     FireModeClass(1)=Class'DEKWeapons209B.UpgradeBioChargedFire'
-     PickupClass=Class'DEKWeapons209B.UpgradeBioRiflePickup'
+     FireModeClass(0)=Class'DEKWeapons209C.UpgradeBioFire'
+     FireModeClass(1)=Class'DEKWeapons209C.UpgradeBioChargedFire'
+     PickupClass=Class'DEKWeapons209C.UpgradeBioRiflePickup'
 }

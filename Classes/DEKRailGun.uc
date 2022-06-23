@@ -234,15 +234,15 @@ defaultproperties
 {
      fullchargeSkin=Combiner'AWGlobal.Shaders.Combiner29'
      ChargeEffectOffset=(X=-1.000000)
-     FireModeClass(0)=Class'DEKWeapons209B.DEKRailGunFire'
+     FireModeClass(0)=Class'DEKWeapons209C.DEKRailGunFire'
      SelectAnimRate=1.363600
      BringUpTime=0.330000
      AIRating=0.400000
      bCanThrow=False
      Priority=4
      HudColor=(B=229,G=216,R=139)
-     PickupClass=Class'DEKWeapons209B.DEKRailGunPickup'
-     AttachmentClass=Class'DEKWeapons209B.DEKRailGunAttachment'
+     PickupClass=Class'DEKWeapons209C.DEKRailGunPickup'
+     AttachmentClass=Class'DEKWeapons209C.DEKRailGunAttachment'
      ItemName="Rail Gun"
      Mesh=SkeletalMesh'DEKAnimationMaster206.Railgun'
      DrawScale=0.900000

@@ -24,5 +24,5 @@ function projectile SpawnProjectile(Vector Start, Rotator Dir)
 defaultproperties
 {
      MaxGoopLoad=15
-     ProjectileClass=Class'DEKWeapons209B.UpgradeBioGlob'
+     ProjectileClass=Class'DEKWeapons209C.UpgradeBioGlob'
 }

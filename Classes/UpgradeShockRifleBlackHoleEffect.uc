@@ -17,7 +17,7 @@ defaultproperties
          Texture=Texture'AW-2k4XP.Weapons.ShockTankEffectCore2a'
          LifetimeRange=(Min=0.500000,Max=0.500000)
      End Object
-     Emitters(0)=SpriteEmitter'DEKWeapons209B.UpgradeShockRifleBlackHoleEffect.GlowingCorona'
+     Emitters(0)=SpriteEmitter'DEKWeapons209C.UpgradeShockRifleBlackHoleEffect.GlowingCorona'
 
      Begin Object Class=SpriteEmitter Name=BlackHole
          SpinParticles=True
@@ -33,7 +33,7 @@ defaultproperties
          Texture=Texture'AW-2004Particles.Weapons.PlasmaFlare'
          LifetimeRange=(Min=0.500000,Max=0.500000)
      End Object
-     Emitters(1)=SpriteEmitter'DEKWeapons209B.UpgradeShockRifleBlackHoleEffect.BlackHole'
+     Emitters(1)=SpriteEmitter'DEKWeapons209C.UpgradeShockRifleBlackHoleEffect.BlackHole'
 
      Begin Object Class=SpriteEmitter Name=Flashes
          FadeOut=True
@@ -49,7 +49,7 @@ defaultproperties
          TextureVSubdivisions=2
          LifetimeRange=(Min=0.200000,Max=0.300000)
      End Object
-     Emitters(2)=SpriteEmitter'DEKWeapons209B.UpgradeShockRifleBlackHoleEffect.Flashes'
+     Emitters(2)=SpriteEmitter'DEKWeapons209C.UpgradeShockRifleBlackHoleEffect.Flashes'
 
      Begin Object Class=SpriteEmitter Name=SuckingStreaks
          UseDirectionAs=PTDU_RightAndNormal
@@ -70,7 +70,7 @@ defaultproperties
          StartVelocityRadialRange=(Min=-300.000000,Max=-300.000000)
          GetVelocityDirectionFrom=PTVD_AddRadial
      End Object
-     Emitters(3)=SpriteEmitter'DEKWeapons209B.UpgradeShockRifleBlackHoleEffect.SuckingStreaks'
+     Emitters(3)=SpriteEmitter'DEKWeapons209C.UpgradeShockRifleBlackHoleEffect.SuckingStreaks'
 
      bNoDelete=False
 }
