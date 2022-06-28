@@ -3,7 +3,7 @@ class DamTypePlasmaGrenade extends WeaponDamageType
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons209D.PlasmaGrenadeLauncher'
+     WeaponClass=Class'DEKWeapons209E.PlasmaGrenadeLauncher'
      DeathString="%k plasmaed at him and tried to blew %o up."
      FemaleSuicide="'The radio said 'No! You are the demons.' And then %o was a zombie."
      MaleSuicide="'The radio said 'No! You are the demons.' And then %o was a zombie."

@@ -3,7 +3,7 @@ class DamTypeProAssGrenade extends WeaponDamageType
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons209D.ProAss'
+     WeaponClass=Class'DEKWeapons209E.ProAss'
      DeathString="%o tried to juggle %k's grenade."
      FemaleSuicide="%o jumped on her own grenade."
      MaleSuicide="%o jumped on his own grenade."
