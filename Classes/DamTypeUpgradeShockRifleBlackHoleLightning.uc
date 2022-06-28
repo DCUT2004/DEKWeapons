@@ -4,7 +4,7 @@ class DamTypeUpgradeShockRifleBlackHoleLightning extends WeaponDamageType
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons209C.UpgradeShockRifle'
+     WeaponClass=Class'DEKWeapons209D.UpgradeShockRifle'
      DeathString="%o was zapped by %k's shock combo."
      bDetonatesGoop=True
      bDelayedDamage=True

@@ -87,7 +87,7 @@ function float RangedAttackTime()
 	if ( B.CanComboMoving() )
 		return 0;
 
-	return FMin(2,0.3 + VSize(B.Enemy.Location - Instigator.Location)/class'DEKWeapons209C.UpgradeShockProjectile'.default.Speed);
+	return FMin(2,0.3 + VSize(B.Enemy.Location - Instigator.Location)/class'DEKWeapons209D.UpgradeShockProjectile'.default.Speed);
 }
 
 function float SuggestAttackStyle()
@@ -148,9 +148,9 @@ function byte BestMode()
 
 	EnemyDist = VSize(B.Enemy.Location - Instigator.Location);
 	if ( B.Skill > 5 )
-		MaxDist = 4 * class'DEKWeapons209C.UpgradeShockProjectile'.default.Speed;
+		MaxDist = 4 * class'DEKWeapons209D.UpgradeShockProjectile'.default.Speed;
 	else
-		MaxDist = 3 * class'DEKWeapons209C.UpgradeShockProjectile'.default.Speed;
+		MaxDist = 3 * class'DEKWeapons209D.UpgradeShockProjectile'.default.Speed;
 
 	if ( (EnemyDist > MaxDist) || (EnemyDist < 150) )
 	{
@@ -188,8 +188,8 @@ simulated function bool CanThrow()
 defaultproperties
 {
      EffectColor=(B=255,R=192,A=128)
-     FireModeClass(0)=Class'DEKWeapons209C.UpgradeShockBeamFire'
-     FireModeClass(1)=Class'DEKWeapons209C.UpgradeShockProjFire'
+     FireModeClass(0)=Class'DEKWeapons209D.UpgradeShockBeamFire'
+     FireModeClass(1)=Class'DEKWeapons209D.UpgradeShockProjFire'
      SelectAnim="Pickup"
      PutDownAnim="PutDown"
      SelectSound=Sound'WeaponSounds.ShockRifle.SwitchToShockRifle'
@@ -220,7 +220,7 @@ defaultproperties
      CustomCrossHairScale=1.333000
      CustomCrossHairTextureName="Crosshairs.HUD.Crosshair_Cross2"
      InventoryGroup=4
-     PickupClass=Class'DEKWeapons209C.UpgradeShockRiflePickup'
+     PickupClass=Class'DEKWeapons209D.UpgradeShockRiflePickup'
      PlayerViewOffset=(X=4.000000,Y=8.000000,Z=-2.000000)
      PlayerViewPivot=(Pitch=-1000)
      BobDamping=1.800000

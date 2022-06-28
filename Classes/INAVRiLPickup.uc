@@ -5,6 +5,6 @@ class INAVRiLPickup extends ONSAVRiLPickup;
 
 defaultproperties
 {
-     InventoryType=Class'DEKWeapons209C.INAVRiL'
+     InventoryType=Class'DEKWeapons209D.INAVRiL'
      PickupMessage="OMG! An AVRiL!"
 }

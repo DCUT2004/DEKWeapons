@@ -170,7 +170,7 @@ defaultproperties
      Damage=125.000000
      DamageRadius=150.000000
      MomentumTransfer=50000.000000
-     MyDamageType=Class'DEKWeapons209C.DamTypeDEKAVRiLRocket'
+     MyDamageType=Class'DEKWeapons209D.DamTypeDEKAVRiLRocket'
      ExplosionDecal=Class'Onslaught.ONSRocketScorch'
      DrawType=DT_StaticMesh
      StaticMesh=StaticMesh'VMWeaponsSM.AVRiLGroup.AVRiLprojectileSM'

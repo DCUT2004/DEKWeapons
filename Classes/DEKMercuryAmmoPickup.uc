@@ -17,7 +17,7 @@ defaultproperties
 {
      AmmoAmount=20
      MaxDesireability=0.300000
-     InventoryType=Class'DEKWeapons209C.DEKMercuryMissileAmmo'
+     InventoryType=Class'DEKWeapons209D.DEKMercuryMissileAmmo'
      PickupMessage="A Mercury Missile pack. For You."
      PickupSound=Sound'PickupSounds.RocketAmmoPickup'
      PickupForce="RocketAmmoPickup"
