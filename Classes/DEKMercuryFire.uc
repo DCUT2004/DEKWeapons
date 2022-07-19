@@ -13,6 +13,6 @@ class DEKMercuryFire extends MercuryFire;
 defaultproperties
 {
      KickMomentum=(X=-35.000000)
-     AmmoClass=Class'DEKWeapons209E.DEKMercuryMissileAmmo'
-     ProjectileClass=Class'DEKWeapons209E.DEKMercuryMissile'
+     AmmoClass=Class'DEKWeapons999X.DEKMercuryMissileAmmo'
+     ProjectileClass=Class'DEKWeapons999X.DEKMercuryMissile'
 }

@@ -272,8 +272,8 @@ defaultproperties
      MonsterClassName(4)=".SMPNaliFighter"
      packName="satoreMonsterPackv"
      Version=107
-     FireModeClass(0)=Class'DEKWeapons209E.INAVRiLFire'
-     FireModeClass(1)=Class'DEKWeapons209E.INAVRiLAltFire'
+     FireModeClass(0)=Class'DEKWeapons999X.INAVRiLFire'
+     FireModeClass(1)=Class'DEKWeapons999X.INAVRiLAltFire'
      PutDownAnim="PutDown"
      SelectAnimRate=1.500000
      PutDownAnimRate=1.000000
@@ -295,7 +295,7 @@ defaultproperties
      MinReloadPct=0.000000
      InventoryGroup=2
      GroupOffset=1
-     PickupClass=Class'DEKWeapons209E.INAVRiLPickup'
+     PickupClass=Class'DEKWeapons999X.INAVRiLPickup'
      PlayerViewOffset=(X=100.000000,Y=35.500000,Z=-32.500000)
      BobDamping=2.200000
      AttachmentClass=Class'Onslaught.ONSAVRiLAttachment'

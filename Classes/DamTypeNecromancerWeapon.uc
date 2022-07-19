@@ -3,7 +3,7 @@ class DamTypeNecromancerWeapon extends WeaponDamageType
 
 defaultproperties
 {
-     WeaponClass=Class'DEKWeapons209E.NecromancerWeapon'
+     WeaponClass=Class'DEKWeapons999X.NecromancerWeapon'
      DeathString="%o casted a death strike on %k."
      FemaleSuicide="%o struck herself."
      MaleSuicide="%o struck himself."

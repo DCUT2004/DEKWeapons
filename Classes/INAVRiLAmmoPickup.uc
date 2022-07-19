@@ -6,7 +6,7 @@ class INAVRiLAmmoPickup extends UTAmmoPickup;
 defaultproperties
 {
      AmmoAmount=7
-     InventoryType=Class'DEKWeapons209E.INAVRiLAmmo'
+     InventoryType=Class'DEKWeapons999X.INAVRiLAmmo'
      PickupMessage="Anti-Monster Rockets!"
      PickupSound=Sound'PickupSounds.FlakAmmoPickup'
      PickupForce="FlakAmmoPickup"

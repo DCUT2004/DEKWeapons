@@ -30,7 +30,7 @@ static function GetHitEffects(out class<xEmitter> HitEffects[4], int VictemHealt
 defaultproperties
 {
      KillerMessage=Class'XGame.SpecialKillMessage'
-     WeaponClass=Class'DEKWeapons209E.DEKRailGun'
+     WeaponClass=Class'DEKWeapons999X.DEKRailGun'
      DeathString="%o was decapitated by %k's rail gun."
      FemaleSuicide="%o violated the laws of space-time and zapped herself."
      MaleSuicide="%o violated the laws of space-time and zapped himself."
